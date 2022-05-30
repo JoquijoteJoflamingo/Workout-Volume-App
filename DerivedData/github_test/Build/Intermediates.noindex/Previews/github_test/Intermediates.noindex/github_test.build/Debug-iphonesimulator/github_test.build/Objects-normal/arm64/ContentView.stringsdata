@@ -1,0 +1,12 @@
+{
+  "source": "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/github_test/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

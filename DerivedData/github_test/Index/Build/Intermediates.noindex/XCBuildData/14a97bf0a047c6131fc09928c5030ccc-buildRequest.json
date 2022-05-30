@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "d70ef34fe067cf7b0b2e397e396833e76261a30713cdda78307786e81ed94ccb"
+    }
+  ],
+  "containerPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/github_test.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Index/Build/Products",
+      "derivedDataPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

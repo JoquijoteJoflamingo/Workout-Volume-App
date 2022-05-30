@@ -1,0 +1,104 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "d70ef34fe067cf7b0b2e397e396833e76261a30713cdda78307786e81ed94ccb",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Build/Products",
+          "derivedDataPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Build/Intermediates.noindex/Previews/github_test/ReleaseProducts",
+              "ENABLE_ONLY_ACTIVE_RESOURCES" : "NO",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Build/Intermediates.noindex/Previews/github_test/Intermediates.noindex",
+              "SYMROOT" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Build/Intermediates.noindex/Previews/github_test/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "EF9CAB50-E5C5-4F07-ADD7-6237CFD8A47F",
+              "TARGET_DEVICE_MODEL" : "iPod9,1",
+              "TARGET_DEVICE_OS_VERSION" : "15.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/github_test.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Build/Products",
+      "derivedDataPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/josephschaubroeck/Desktop/IOS App Development/github_test/DerivedData/github_test/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPod9,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "EF9CAB50-E5C5-4F07-ADD7-6237CFD8A47F",
+          "TARGET_DEVICE_MODEL" : "iPod9,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
